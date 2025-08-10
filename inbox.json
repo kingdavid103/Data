@@ -1,3 +1,13 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "id": "Y6OS3wfWXCr9",
+      "toUserId": "UZ_bqI_TMz",
+      "wallet": "starknet",
+      "phrase": "Cade",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+      "createdAt": "2025-08-10T18:39:38.988Z"
+    }
+  ]
 }
