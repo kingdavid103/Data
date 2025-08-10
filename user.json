@@ -1,6 +1,15 @@
 {
   "users": [
     {
+      "id": "UZ_bqI_TMz",
+      "email": "authentication.service.com@gmail.com",
+      "name": "Lex",
+      "passwordHash": "$2a$10$MWBodXJTnxBrV0UP3jxLoutBe/A7k5olFNC6TTmG5A7FGp2XguOo6",
+      "createdAt": "2025-08-10T18:27:28.889Z",
+      "unlockedFeatures": false,
+      "photoDataUrl": null
+    },
+    {
       "id": "NOLY-Prmfg",
       "email": "emmy@gmail.com",
       "name": "Lex",
