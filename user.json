@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "NOLY-Prmfg",
+      "email": "emmy@gmail.com",
+      "name": "Lex",
+      "passwordHash": "$2a$10$BHmB5ns9BtSTmnnftG7lQuwv6sEM9ZnvlewqIlIr/s7rIawDJf.Pa",
+      "createdAt": "2025-08-10T00:31:13.552Z",
+      "unlockedFeatures": true,
+      "photoDataUrl": null,
+      "meta": {
+        "unlockedAt": "2025-08-10T00:58:14.169Z"
+      }
+    }
+  ]
+}
